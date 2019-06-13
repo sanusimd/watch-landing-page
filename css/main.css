@@ -1,4 +1,4 @@
-
+/* @import "css/responsive.css"; */
 
 body {
     /* background: red; */
@@ -184,8 +184,8 @@ header .header-buttons .btn-blue .fas {
 }
 
 #top-section .right-box .watch-box {
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
     border-radius: 50%;
     background: #fff;
     position: absolute;
@@ -209,7 +209,6 @@ header .header-buttons .btn-blue .fas {
 }
 
 #design-by .design-box {
-   
     border-radius: 5px;
     margin-top: -100px;
     background: #ffffff;

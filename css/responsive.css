@@ -1,0 +1,117 @@
+/* TOP SECTION  */
+/* laptop devices */
+@media only screen and (max-width: 1215px) {}
+
+/* Tablet devices */
+@media only screen and (max-width: 1023px) {}
+
+/* mobile devices */
+@media only screen and (max-width: 767px) {
+
+    /* Top Section */
+    #top-section .left-box {
+        width: 100%;
+        margin-top: -100px;
+        margin-bottom: 50px;
+    }
+
+    #top-section .left-box .info-box h1 {
+        font-size: 2.5rem;
+    }
+
+    #top-section .left-box .info-box p {
+        font-size: 0.8rem;
+
+
+    }
+
+    #top-section .right-box {
+        width: 100%;
+        margin-bottom: 100px;
+
+    }
+
+    #top-section .right-box .watch-box {
+        width: 400px;
+        height: 400px;
+        margin-top: -137px;
+        margin-left: -118px;
+    }
+
+    #top-section .right-box .watch-box img {
+        width: 62%;
+        position: absolute;
+        top: 43px;
+        left: 63px;
+
+    }
+
+    /* design by section */
+    #design-by .design-box {
+        margin-top: -50px;
+        padding: 2px;
+    }
+
+    #design-by .design-box .info-box {
+        /* width: 50%; */
+        text-align: center
+    }
+
+    #design-by .design-box .info-box .icon-box {
+        width: 50%;
+    }
+
+    /* color collection section */
+    #color-collection .container .left-box {
+        width: 100%;
+    }
+
+    #color-collection .container .right-box {
+        width: 100%;
+    }
+
+    /* blue section */
+    #blue-section  {
+        
+    }
+    #blue-section .left-box {
+        display: none;
+    }
+    #blue-section .right-box {
+    width: 100%;
+    }
+
+    #blue-section .right-box h1 {
+        font-size: 40px;
+        margin-top: -100px;
+    }
+    /* Latest Watch Section */
+    #latest-headphone .top-info h1 {
+       font-size: 40px; 
+    }
+
+    #latest-headphone .top-info .icons-box  {
+        width: 100%;
+    }
+    #latest-headphone .headphone-container .headphone-box {
+        width: 80%;
+        
+    }
+    /* say Hello */
+    #say-hello{
+
+    }
+    #say-hello h1{
+        font-size: 40px
+    }
+
+    #say-hello .input-name{
+      /* width: 40%; */
+      /* font-size: 1rem; */
+    }
+
+    #say-hello .input-email{
+        /* width: 60%; */
+    }
+
+}
