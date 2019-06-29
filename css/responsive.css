@@ -13,6 +13,7 @@
         width: 100%;
         margin-top: -100px;
         margin-bottom: 50px;
+        text-align: center;
     }
 
     #top-section .left-box .info-box h1 {
@@ -64,10 +65,12 @@
     /* color collection section */
     #color-collection .container .left-box {
         width: 100%;
+        
     }
 
     #color-collection .container .right-box {
         width: 100%;
+       
     }
 
     /* blue section */
@@ -79,19 +82,23 @@
     }
     #blue-section .right-box {
     width: 100%;
+
     }
 
     #blue-section .right-box h1 {
         font-size: 40px;
         margin-top: -100px;
+        text-align: center;
     }
     /* Latest Watch Section */
     #latest-headphone .top-info h1 {
        font-size: 40px; 
+       /* text-align: center; */
     }
 
     #latest-headphone .top-info .icons-box  {
         width: 100%;
+        /* text-align: center; */
     }
     #latest-headphone .headphone-container .headphone-box {
         width: 80%;
